@@ -2,3 +2,4 @@ __pycache__/
 build/
 client_secret.json
 tmp/
+*.swp
